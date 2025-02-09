@@ -5,7 +5,7 @@
 # 🤗 Hug Day ❣️
 
 ## 📌 Project Description  
-       Hug Day ❣️ is a simple and heartwarming web project created using **HTML & CSS** to celebrate the spirit of Hug Day. It features a beautiful design with a love-filled theme to spread positivity and warmth.  
+    Hug Day ❣️ is a simple and heartwarming web project created using HTML & CSS to celebrate the spirit of Hug Day. It features a beautiful design with a love-filled theme to spread positivity and warmth.  
 
 ## ✨ Features  
 - 💖 Attractive Hug Day-themed UI  
